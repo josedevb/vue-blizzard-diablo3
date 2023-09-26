@@ -1,7 +1,7 @@
 # diablo3
 
 ## Live Site
-https://vue-diablo-project.netlify.app/
+https://main--vue-diablo3-project.netlify.app/#/
 
 ## Project setup
 ```
