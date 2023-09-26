@@ -1,5 +1,8 @@
 # diablo3
 
+## Live Site
+https://vue-diablo-project.netlify.app/
+
 ## Project setup
 ```
 npm install
